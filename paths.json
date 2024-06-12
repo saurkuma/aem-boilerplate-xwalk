@@ -1,6 +1,6 @@
 {
   "mappings": [
-    "/content/SKTest/:/",
-    "/content/SKTest/configuration:/.helix/config.json"
+    "/content/edscrosswalk/:/",
+    "/content/edscrosswalk/configuration:/.helix/config.json"
   ]
 }
